@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning How to poop
 - 💞️ I’m looking to collaborate on Money agregator
 - 📫 How to reach me Call to heavens
-PS. BAD JOKES
+
+- PS. BAD JOKES
 
 <!---
 moorgate/moorgate is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
