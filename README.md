@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @moorgate
-- 👀 I’m interested in $EX
-- 🌱 I’m currently learning How to poop
 - 💞️ I’m looking to collaborate on Money agregator
 - 📫 How to reach me Call to heavens
 
